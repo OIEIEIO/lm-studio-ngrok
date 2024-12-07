@@ -1,4 +1,4 @@
-### How to Share Your Hardware and AI Frontend with a Friend 100 Miles Away - LM Studio Server
+How to Share Your Hardware and AI Frontend with a Friend 100 Miles Away - LM Studio Server
 
 ### Share Your AI Frontend with a Friend Using LMStudio, Gradio, and Ngrok
 
